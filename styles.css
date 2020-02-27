@@ -1,0 +1,77 @@
+﻿/* add your CSS here */
+body {
+  padding: 5px;    
+  width: 340px;
+}
+#container {
+  
+  width: 320px;  
+  height: 630px;
+  margin: auto;
+  text-align: center;
+  font-family: serif;  
+  box-shadow: 0 4px 8px 0 rgba(12, 150, 150, 0.4);
+  border: 2px solid rgb(220 220 220);
+  padding: 5px;
+  
+}
+  
+#interesting-fact {
+  padding-left: 2px; 
+  text-align: center;
+  border: 1px solid gray;
+  width: 285px;
+  padding: 2px;  
+  background: black;
+  color: white;
+  display: block;  
+  font-family: 'merriweather', serif;
+  font-style: italic; 
+
+}
+
+
+
+h1 {
+  text-shadow: 2px 2px 5px gold;
+  font-family: "serif" , serif;
+  font-size: 30px;
+  
+}
+
+ #facts {
+ color: black;
+   list-style-type: none;
+   font-family: "Rancho", serif;
+   text-align: center;   
+   padding: 10px;      
+   font-weight: bold;
+   font-size: 20px;
+   color: gray;
+   
+   
+}
+#card {
+   
+  width: 292px;
+  height: 260px;
+  border: 2px solid gray;
+  padding: 4px;
+  
+}
+
+#summary {
+  text-align: left; 
+  font-size: 13px;
+  padding-left: 10px;  
+  background-color: rgb(220 220 150);
+  color: black;     
+  padding: 5px;
+}
+.animal-info {
+
+  padding: 4px;
+  width: 305px;
+  margin: 2px;
+ box-shadow: 0 2px 3px 0 gold;
+}
